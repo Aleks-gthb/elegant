@@ -172,7 +172,7 @@ body, html {
 .banner {
 	padding-top: 260px;
 	padding-bottom: 326px;
-	background: url('img/banner.png') no-repeat center / cover;
+	background: url('../img/banner.png') no-repeat center / cover;
 	margin-top: -68px;
 	position: relative;
 }
